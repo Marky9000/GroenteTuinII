@@ -1,0 +1,23 @@
+{
+  "name": "GroenteTuin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "farm.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marky9000/GroenteTuin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marky9000/GroenteTuin/issues"
+  },
+  "homepage": "https://github.com/Marky9000/GroenteTuin#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
